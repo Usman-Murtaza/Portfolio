@@ -1,0 +1,142 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    /* border: black solid; */
+    padding: 10px 60px;
+    
+}
+.projects{
+    cursor: pointer;
+
+}
+.links{
+    display: flex;
+   /* border: black solid;*/                                                                                    
+    align-items: center;
+    gap: 10px;
+    padding: 0px 20px;
+}
+.home{
+ /*border: black solid;*/
+ padding: 5px 60px;
+ justify-content: center;
+ align-items: center;
+ cursor: pointer;
+}
+.about{
+    display: flex;
+    padding: 0px 0px;
+}
+.contact{
+    background-color: rgb(0, 128, 0);
+}
+.detail{
+    padding: 0 60px;
+}
+.name{
+    padding: 0 60px;
+    color:#0D6EFD;
+}
+.content{
+    padding: 10px 60px;
+}
+.image{
+    padding: 0 60px;
+}
+.inner{
+    padding: 140px 0;
+}
+.button{
+    background-color:#0D6EFD;
+    color: aliceblue;
+    width: 90px;
+    height: 35px;
+    justify-content: center;
+    padding: 4px;
+    border-radius: 6px;
+    position: absolute;
+    left: 60px;
+    cursor: pointer;
+}
+.me{
+    padding: 80px 0;
+}
+.heading{
+    padding: 0 60px;
+}
+.headdown{
+    padding: 0 60px;    
+}
+.line{
+    height: 70px;
+    width: 5px;
+    background-color:#0D6EFD;
+    position: absolute;
+    top: 610px;
+    left: 40px;
+}
+.projects{
+    padding: 0 60px;   
+}
+.card11{
+    display: flex;
+    padding: 0 70px;
+    gap: 100px;
+}
+.skill{
+    padding: 0 60px;
+}
+.end{
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+}
+.img22{
+    position: absolute;
+    left:555px;
+    cursor: pointer;
+
+}
+.img11{
+    position: absolute;
+    left: 745px;
+    top: 1935px;
+    cursor: pointer;
+
+}
+.img33{
+    position: absolute;
+    left: 640px;
+    top: 1935px;
+    cursor: pointer;
+
+}
+.last{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    cursor: pointer;
+}
+.img2{
+    cursor: pointer;
+}
+.img3{
+    cursor: pointer;
+}
+.in1{
+    cursor: pointer;
+}
+.in2{
+    cursor: pointer;
+}
